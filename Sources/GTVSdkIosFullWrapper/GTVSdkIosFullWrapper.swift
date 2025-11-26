@@ -5,6 +5,6 @@ import FirebaseAnalytics
 import Airbridge
 
 /// Wrapper target cho Core binary + dependencies.
-public final class GTVSdkIosCoreWrapper {
+public final class GTVSdkIosFullWrapper {
     private init() {}
 }
