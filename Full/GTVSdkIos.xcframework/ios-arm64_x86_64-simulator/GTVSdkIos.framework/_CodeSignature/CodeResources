@@ -6,47 +6,47 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		Y6+onHuSRPPDHz5+4saFQtIyXFg=
+		YnXsrqrcwm7hYVAwpzlwAD8KJ+0=
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		62/FLqc2Mge8P+qI8mD7CKIUWUo=
+		CUWUO1D790Qm/nJ05e0tFt9cYtE=
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		yZOZjrghQ8wEyBNKRWGeernM7kM=
+		xSlML6kfdHRcG2ozHxAaY02/yPo=
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		wyD7+bVPvvu8laG3OSTIb02HxpA=
+		o68cLofoRvfEFzlkWAHA5UQ4SlU=
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		yZOZjrghQ8wEyBNKRWGeernM7kM=
+		xSlML6kfdHRcG2ozHxAaY02/yPo=
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QF7twYXGq2z4Rf7nI2ZF5QMhtiM=
+		pf+Vxxo0rGeVcaex5TNzaR149D4=
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		62/FLqc2Mge8P+qI8mD7CKIUWUo=
+		CUWUO1D790Qm/nJ05e0tFt9cYtE=
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		LbKDNcLmZRUsOyxqkcnBXbjlQMs=
+		UYAOsdEl2tfCNtBpJrDMgt0JyWA=
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		QazrkFlO6yYv0Mq1KVTK6x2/HpU=
+		C6JCOHK0hqUsc0BHOsD1h/tSf/I=
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		LbKDNcLmZRUsOyxqkcnBXbjlQMs=
+		UYAOsdEl2tfCNtBpJrDMgt0JyWA=
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dDCk6XWR9XsWWJfJ3hajOTLhA+s=
+		+GHMRvgk0MhqHFJ+hBwucQgJjD8=
 		</data>
 		<key>facebook.png</key>
 		<data>
@@ -83,70 +83,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Dd/XuYw5DRHAjBxt0jtj+klAIMdxHuvVC6LgNYUNU0=
+			7wBTEX0vJ+bYJpl+fAKFp3kpLyvg4d1IV2h6bUS+XK4=
 			</data>
 		</dict>
 		<key>Modules/GTVSdkIos.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cfZ4Q5MRJbLYgewWjLmbk5hWAMOp2jJdpFjIbkXhgig=
+			Bbjw3yXEa6jVxBErLdHhIiCC5ulvCrSKOhR3Qq4kDUg=
 			</data>
 		</dict>
 		<key>Modules/GTVSdkIos.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BKly+omFRjJgpwc6BYz2Xf7LmBCjspFV0i0PPAlZQUU=
+			FcXiCkY/L+EY78f/g1/PzZWmObmgMrb7fHLie6PeoWU=
 			</data>
 		</dict>
 		<key>Modules/GTVSdkIos.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cfZ4Q5MRJbLYgewWjLmbk5hWAMOp2jJdpFjIbkXhgig=
+			Bbjw3yXEa6jVxBErLdHhIiCC5ulvCrSKOhR3Qq4kDUg=
 			</data>
 		</dict>
 		<key>Modules/GTVSdkIos.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eMa4hHXFSc6yflOXLF2rvsbLGQUyXfIqiu0gOEswbWg=
+			CKFoTfh7Wlf6Uti6m0xcn9XLq7lcsrBXUCeZxgDHPQE=
 			</data>
 		</dict>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Dd/XuYw5DRHAjBxt0jtj+klAIMdxHuvVC6LgNYUNU0=
+			7wBTEX0vJ+bYJpl+fAKFp3kpLyvg4d1IV2h6bUS+XK4=
 			</data>
 		</dict>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AbXQ0R73Cb8Y6lyUCOLEbwJZ4YJ2T43UUPfXU0+hg4c=
+			rQ55a2+hHcPxzahcxKQd+ma3doXawfnap1KQzg0DUpE=
 			</data>
 		</dict>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OzMYwOjPYt4evg9Nyo+e9PPqwrLwJKmMJOXLkZi03xY=
+			TDph/Gi61rwRGeeVEFlH6Au6VfnD+Byx8Cn+i2IuJMg=
 			</data>
 		</dict>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AbXQ0R73Cb8Y6lyUCOLEbwJZ4YJ2T43UUPfXU0+hg4c=
+			rQ55a2+hHcPxzahcxKQd+ma3doXawfnap1KQzg0DUpE=
 			</data>
 		</dict>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			toMNlfXDHG7tyKrQl9vTNLTkUqk/Taxj1gSojV/j3Zg=
+			ntHZIoELYKBEFaMHWsuJuqpIUqO3m9raaNkspj8Z6PM=
 			</data>
 		</dict>
 		<key>facebook.png</key>

@@ -39,14 +39,20 @@ public enum GTVEvents {
   public static let PURCHASES_RESTORED: Swift.String
   public static let GTV_INIT_ADS: Swift.String
 }
+public enum GTVStates {
+  public static let STATE_LOGIN: Swift.String
+  public static let STATE_UPDATE: Swift.String
+  public static let STATE_MAINTENANCE: Swift.String
+}
 @_hasMissingDesignatedInitializers public class GTVCore {
   public static let shared: GTVSdkIos.GTVCore
   final public let urlString: Swift.String
+  final public let urlOpenId: Swift.String
   final public let urlGraph: Swift.String
   final public let topicFirebase: Swift.String
   public func initSdk(clientId: Swift.String, adjustToken: Swift.String = "", environmentAdjust: Swift.String = "sanbox", airbridgeAppName: Swift.String = "", airbridgeAppToken: Swift.String = "")
   public func showSplash()
-  public func showLogin()
+  public func showLogin(state: Swift.String = GTVStates.STATE_LOGIN)
   public func setListener(_ listener: any GTVSdkIos.GTVSdkListener)
   public func logout()
   public func trackAirbridgeEvent(category: Swift.String, customData: [Swift.String : Any] = [:], semantic: [Swift.String : Any] = [:])
