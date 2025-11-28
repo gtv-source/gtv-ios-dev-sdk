@@ -2714,6 +2714,20 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/hoangtran\/Desktop\/ios-sdk\/GTVSdkIos\/GTVSdkIos\/Sources\/Core\/FirebaseManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 354,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/hoangtran\/Desktop\/ios-sdk\/GTVSdkIos\/GTVSdkIos\/Sources\/Core\/FirebaseManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 392,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/hoangtran\/Desktop\/ios-sdk\/GTVSdkIos\/GTVSdkIos\/Sources\/ViewController\/SplashViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 382,
