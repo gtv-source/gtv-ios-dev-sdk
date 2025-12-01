@@ -10,7 +10,7 @@
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		0YMnqLBu23tSrKzioJO9H3rDTK0=
+		viQiaMb8Q13ZmiWGBs2/fKan3T0=
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FMwU7+dnH6IUJv8D8wjguKvUOJI=
+		FAZnOvxRb05VA5wNgQmCBr5mkU4=
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		0YMnqLBu23tSrKzioJO9H3rDTK0=
+		viQiaMb8Q13ZmiWGBs2/fKan3T0=
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BFJ7hrNhl0OwyLAcgAQR2/zUpL4=
+		NZpg5ZvNTgPA8OeJQUjLsp/FFUw=
 		</data>
 		<key>facebook.png</key>
 		<data>
@@ -83,7 +83,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gA2tsWmuCxKwPHGrztBbI2OVA1TcV7VNI09lY7e0n7Y=
+			oPkJDBPJFgH3vDXa3ROOgxI0fe58FHex5mOpOvWi93s=
 			</data>
 		</dict>
 		<key>Modules/GTVSdkIos.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -111,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w41LWKEjqYT7WwgXrqRplIb+gyVhHNa93GyNpLVR45k=
+			RwEisg1qdCj58Tpouab903eXtO9UUNxluY+p0Ur7U8M=
 			</data>
 		</dict>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gA2tsWmuCxKwPHGrztBbI2OVA1TcV7VNI09lY7e0n7Y=
+			oPkJDBPJFgH3vDXa3ROOgxI0fe58FHex5mOpOvWi93s=
 			</data>
 		</dict>
 		<key>Modules/GTVSdkIos.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -146,7 +146,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nxLK4IzgFMol6R/qU3ZMxKKCJY1pJZkMJMMxuY2HY4A=
+			bWrEtNGdWzSEJtKfN9ODgleBJkAsyIu3ghm/cd0r2H0=
 			</data>
 		</dict>
 		<key>facebook.png</key>
